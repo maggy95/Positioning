@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+.contenedor{
+width: 800px;}
+
+.caja{
+	width: 200px;
+	height: 200px;
+	
+}
+
+.p1{
+	background-color: #ED2251;
+	
+}
+
+.p2{
+	background-color: #3A81BA;
+	left: 200px;
+	position: absolute;
+
+}
+.p3{
+	background-color:#8BAB42;
+	
+}
+
+.p4{
+	background-color: yellow;
+	
+}
+.clearfix:before,.clearfix:after { display: table;
+content: " ";
+}
+.clearfix:after{
+	clear: both;
+}
+

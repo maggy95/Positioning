@@ -1,0 +1,28 @@
+.contenedor{
+width: 800px;}
+
+.caja{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+.p1{
+	background-color: #ED2251;
+	
+}
+
+.p2{
+	background-color: #3A81BA;
+}
+.p3{
+	background-color:#8BAB42;
+}
+
+.clearfix:before,.clearfix:after { display: table;
+content: " ";
+}
+.clearfix:after{
+	clear: both;
+}
+
